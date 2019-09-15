@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://elbeyoglu.com",
+    "contentApiKey": "fd94a74669db35d726aac4bb83c6f96d721247a1df9323dc5526a4d90612562b6cdaf8a26e0b18e88bd5a01cf29157fb3bd51602c2e6a12a8dacad9d1d2d0018"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://elbeyoglu.com",
+    "contentApiKey": "fd94a74669db35d726aac4bb83c6f96d721247a1df9323dc5526a4d90612562b6cdaf8a26e0b18e88bd5a01cf29157fb3bd51602c2e6a12a8dacad9d1d2d0018"
   }
 }
